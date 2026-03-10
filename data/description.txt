@@ -1,0 +1,37 @@
+﻿Description des variables
+* Sources : Insee, Recensement de la population (RP), Enquête sur la participation électorale 2017, Déclaration annuelle de données sociales (DADS), Fichier localisé social et fiscal (Filosofi), Ministère de l’Intérieur.
+* Périodes : 2014, 2015, 2017. Les données 2014 et 2015 sont diffusées selon la géographie en vigueur au 1er janvier 2016.
+
+
+1. Le Code correspond au code des départements. Il y aura donc 96 départements (avec deux codes non numériques : Corse-du-Sud - 2A et Haute-Corse - 2B).
+2. HLM = "Part des locataires HLM dans les résidences principales en France en 2014".
+   * Formule : Rapport du nombre de locataires HLM sur le nombre total de résidences principales.
+   * Définition de la résidence principale : Une résidence principale est un logement occupé de façon habituelle et à titre principal par un ménage.
+3. Salairemoy = "Salaire net horaire moyen français de 2015".
+   * Définition du salaire net : Le salaire net de prélèvements sociaux est le salaire que perçoit effectivement le salarié. Il est net de toutes cotisations sociales. Les statistiques sont établies à partir des informations recueillies sur les entreprises du secteur privé et les entreprises publiques localisées en France.
+4. Ouvrier = "Part des ouvriers dans le nombre d’emplois sur le lieu de travail en France".
+   * Définition de la CSP : Cette CSP regroupe les ouvriers de type industriel et artisanal, les chauffeurs, les ouvriers de la manutention, du magasinage et du transport et les ouvriers agricoles. 
+   * Formule : Rapport entre le nombre d’ouvriers sur le lieu de travail et le nombre d’emplois sur le lieu de travail.
+5. Employé = "Part des employés dans le nombre d’emplois sur le lieu de travail en France".
+   * Définition de la CSP : Cette CSP regroupe les employés civils et agents de service de la fonction publique, les policiers, militaires et agents de surveillance, les employés administratifs d’entreprise, les employés de commerce et les personnels des services directs aux particuliers.
+   * Formule : Rapport entre le nombre d’employés sur le lieu de travail et le nombre d’emplois sur le lieu de travail.
+6. PI = "Part des professions intermédiaires dans le nombre d’emplois sur le lieu de travail".
+   * Définition de la CSP : Cette CSP regroupe les professeurs des écoles, les professions intermédiaires de la santé et du travail social, les membre du clergé, les religieux, professions intermédiaires administratives de la fonction publique, les professions intermédiaires administratives et commerciales des entreprises, les techniciens, les contremaîtres et les agents de maîtrise.
+   * Formule : Rapport entre le nombre de professions intermédiaires sur le lieu de travail et le nombre d’emplois sur le lieu de travail.
+7. Cadre = "Part des cadres et professions intellectuelles supérieures dans le nombre d’emplois sur le lieu de travail en France".
+   * Définition de la CSP : Cette CSP regroupe les professions libérales, les cadres de la fonction publique, les professeurs, les personnes exerçant des professions scientifiques, de l’information, des arts et des spectacles, les cadres administratifs et commerciaux d’entreprises, les ingénieurs et cadres techniques d’entreprises.
+   * Formule : Rapport entre le nombre de cadres et professions intellectuelles supérieures au lieu de travail et le nombre d’emplois sur le lieu de travail.
+8. Artisan = "Part des artisans, commerçants, chefs d’entreprise dans le nombre d’emplois sur le lieu de travail".
+   * Définition de la CSP : Cette CSP est composée de trois nomenclatures. La première nomenclature de cette catégorie socioprofessionnelle concerne les Artisans : elle regroupe les personnes établies à leur compte ou possédant la qualité de dirigeant d’une entreprise d’artisanat sous forme sociale. La deuxième nomenclature concerne les commerçants et assimilés : elle regroupe les commerçants proprement dits, les hôteliers-restaurateurs-cafetiers, les fleuristes, les poissonniers et les prestataires de service, quand ils sont salariés de leur propre commerce. La troisième nomenclature concerne exclusivement les chefs d’entreprise de 10 salariés ou plus. En raison de leur importance financière, les activités d’armateur, de banquier sont également classées dans cette catégorie même s’ils emploient moins de 10 salariés.
+   * Formule : Rapport entre le nombre d’artisans, commerçants, chefs d’entreprise sur le lieu de travail et le nombre d’emplois sur le lieu de travail.
+9. Agri = "Part des agriculteurs exploitants dans le nombre d’emplois sur le lieu de travail".
+   * Définition de la CSP : Cette CSP est exclusivement consacrée au classement des personnes qui exercent à titre professionnel une activité agricole en qualité de chef d’exploitation salarié (dès lors que ce dernier perçoit effectivement un salaire versé par l’exploitation).
+   * Formule : Rapport entre le nombre d’agriculteurs exploitants au lieu de travail et le nombre d’emplois sur le lieu de travail.
+10. TxPauv = "Taux de pauvreté en France en 2014".
+   * Définition du taux de pauvreté : Le taux de pauvreté correspond à la proportion d’individus (ou de ménages) dont le niveau de vie est inférieur pour une année donnée à un seuil, dénommé seuil de pauvreté, exprimé en euros. Il est égal à 60% du revenu médian français soit 1063.2 euros par mois.
+11. NonDiplome = "Part des non ou peu diplômés dans la population non scolarisée de 15 ans ou plus". 
+   * Formule : Rapport entre le nombre de personnes non scolarisées de 15 ans ou plus titulaires d’aucun diplôme ou au plus d’un BEPC, brevet des collèges ou diplôme national du brevet et le nombre total de personnes non scolarisées de 15 ans ou plus.
+12. Txcho = "Taux de chômage en France au 2ème trimestre 2017".
+   * Définition du taux de chômage : Le taux de chômage d’une classe d’individus est le rapport entre le nombre de chômeurs de cette classe et le nombre d’actifs de la classe (actifs ayant un emploi et chômeurs).
+13. TxAbs = "Taux d’abstention aux élections présidentielles de 2017 en France".
+   * Définition du taux d’abstention : Lors d’une élection, d’un référendum ou plus généralement d’une délibération, le taux d’abstention correspond au rapport des personnes inscrites sur les listes électorales et n’ayant pas participer au vote sur l’ensemble des personnes inscrites sur les listes. Ne doivent pas être considérées comme "abstentionnistes" les personnes qui votent blanc ou nul. Leurs suffrages sont dits "non exprimés" et ne doivent pas être comptés dans les chiffres mesurant l’abstention.
